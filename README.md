@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SabalNiroula
+- 👋 Hi, I’m @PrakashNiroula
 - 👀 I’m interested in AI, machine learning and data science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning various machine learning algorithms.
 - 📫 You can reach me on email (niroulaprakash1224@gmail.com)
 
 <!---
